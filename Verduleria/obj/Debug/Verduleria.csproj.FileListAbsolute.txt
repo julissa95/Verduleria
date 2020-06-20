@@ -1,0 +1,11 @@
+C:\Users\msimi\source\repos\Verduleria\bin\Debug\Verduleria.exe.config
+C:\Users\msimi\source\repos\Verduleria\bin\Debug\Verduleria.exe
+C:\Users\msimi\source\repos\Verduleria\bin\Debug\Verduleria.pdb
+C:\Users\msimi\source\repos\Verduleria\obj\Debug\Verduleria.Form1.resources
+C:\Users\msimi\source\repos\Verduleria\obj\Debug\Verduleria.Properties.Resources.resources
+C:\Users\msimi\source\repos\Verduleria\obj\Debug\Verduleria.csproj.GenerateResource.cache
+C:\Users\msimi\source\repos\Verduleria\obj\Debug\Verduleria.csproj.CoreCompileInputs.cache
+C:\Users\msimi\source\repos\Verduleria\obj\Debug\Verduleria.exe
+C:\Users\msimi\source\repos\Verduleria\obj\Debug\Verduleria.pdb
+C:\Users\msimi\source\repos\Verduleria\obj\Debug\Verduleria.csprojAssemblyReference.cache
+C:\Users\msimi\source\repos\Verduleria\obj\Debug\Verduleria.VerVentas.resources
